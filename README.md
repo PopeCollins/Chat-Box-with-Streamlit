@@ -1,9 +1,9 @@
 # General Information
-This Readme contain the general overview of the whole project of building a chat box using OpenAi model.
+This Readme contains a general overview of the whole project of building a chat box using OpenAi model.
 
 # Files.
 * [chat_app_streamlit.py](https://github.com/PopeCollins/Chat-Box-with-Streamlit/blob/a700849cfa91a21fc58e8e4fb0c91dfae2d84fae/chat_app_streamlit.py) This file contains the code lines for building the chat box.
-* secrets.toml: This file contains the OpenAI key
+* secrets.toml: This file contains the OpenAI key. Create a file called secrets.toml in the folder where the file is saved
 
 # Basic Packaged needed
 * Python 3
